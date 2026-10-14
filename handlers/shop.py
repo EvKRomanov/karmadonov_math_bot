@@ -91,7 +91,7 @@ async def cmd_start(message: Message, state: FSMContext):
     await state.clear()  
     await message.answer(  
         f"👋 Приветствуем, {message.from_user.first_name}!\n\n"  
-        "Добро пожаловать в образовательный центр онлайн-подготовки.\n"  
+        "Добро пожаловать в образовательный центр Karmadonov School \n"  
         "Выберите интересующий раздел в меню ниже:",  
         reply_markup=main_menu_keyboard()  
     )  
