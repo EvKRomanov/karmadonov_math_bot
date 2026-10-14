@@ -15,7 +15,7 @@ from config import PAYMENT_TOKEN
   
 router = Router()  
   
-# Ссылки (замените юзернейм на свой)  
+# Ссылки (замените юзернейм на свой)  @
 DIRECTOR_TG = "https://t.me/EvKRomanov"  # Ссылка на ваш личный TG  
 YOUTUBE_PLAYLIST = "https://youtube.com/playlist?list=PLBx5zww72gbg&si=EU8Pu0U1MnkAWjtx"  # Ссылка на бесплатный плейлист  
   
